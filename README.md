@@ -27,11 +27,14 @@ Este projeto implementa uma galeria de imagens interativa em React Native com fu
 
 ## Screenshots
 
-[Aqui você deve adicionar screenshots do seu app mostrando:]
-1. Tela principal com a grade de imagens
-2. Visualização em tela cheia
-3. Menu de exclusão ativo
-4. Estado vazio (quando não há imagens)
+### Tela Chat
+![Chat](./screenshots/chat.png)
+
+### Tela Gallery
+![Gallery](./screenshots/gallery.png)
+
+### Tela Explore
+![Explore](./screenshots/explore.png)
 
 ## Como Começar
 
